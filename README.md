@@ -31,7 +31,7 @@ API-POSTMAN (Junior)
 
 Курсы Junior QA/ Инженер по тестированию ПО https://stepik.org/cert/2934647
 
-Курсы Тестирование ПО с нуля. Теория + Практика. Уровень Basichttps://stepik.org/cert/3041053
+Курсы Тестирование ПО с нуля. Теория + Практика. Уровень Basic https://stepik.org/cert/3041053
 
 Контакты
 Email: trane.91pk@mail.ru
